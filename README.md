@@ -1,2 +1,2 @@
 # suyu-dailybuilds
-I compile Suyu Builds before official laucnh
+I compile Suyu Builds before official launch
